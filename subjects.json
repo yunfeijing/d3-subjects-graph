@@ -1,0 +1,154 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "name": "CIS",
+            "collapsed": true,
+            "childLinks": []
+        },
+        {
+            "id": 1,
+            "name": "Foundations of Computing",
+            "collapsed": true,
+            "childLinks": []
+        },
+        {
+            "id": 2,
+            "name": "Foundations of Algorithms",
+            "collapsed": true,
+            "childLinks": []
+        },
+        {
+            "id": 3,
+            "name": "Algorithms and Data Structure",
+            "collapsed": true,
+            "childLinks": []
+        },
+        {
+            "id": 4,
+            "name": "Design of Algorithms",
+            "collapsed": true,
+            "childLinks": []
+        },
+        {
+            "id": 5,
+            "name": "Elements of Data Processing",
+            "collapsed": true,
+            "childLinks": []
+        },
+        {
+            "id": 6,
+            "name": "Machine Learning",
+            "collapsed": true,
+            "childLinks": []
+        },
+        {
+            "id": 7,
+            "name": "Artificial Intelligence",
+            "collapsed": true,
+            "childLinks": []
+        },
+        {
+            "id": 8,
+            "name": "IT Project",
+            "collapsed": true,
+            "childLinks": []
+        },
+        {
+            "id": 9,
+            "name": "Object Oriented Software Development",
+            "collapsed": true,
+            "childLinks": []
+        },
+        {
+            "id": 10,
+            "name": "Database Systems",
+            "collapsed": true,
+            "childLinks": []
+        },
+        {
+            "id": 11,
+            "name": "Computer Systems",
+            "collapsed": true,
+            "childLinks": []
+        },
+        {
+            "id": 12,
+            "name": "Web Information Technologies",
+            "collapsed": true,
+            "childLinks": []
+        }
+    ],
+
+    "links": [
+        {
+            "source": 1,
+            "target": 2,
+            "dashed": true
+        },
+        {
+            "source": 2,
+            "target": 3
+        },
+        {
+            "source": 2,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 5,
+            "target": 6
+        },
+        {
+            "source": 2,
+            "target": 6
+        },
+        {
+            "source": 3,
+            "target": 7
+        },
+        {
+            "source": 4,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 2,
+            "target": 9
+        },
+        {
+            "source": 1,
+            "target": 10
+        },
+        {
+            "source": 2,
+            "target": 10
+        },
+        {
+            "source": 3,
+            "target": 11
+        },
+        {
+            "source": 4,
+            "target": 11
+        },
+        {
+            "source": 10,
+            "target": 12
+        },
+        {
+            "source": 9,
+            "target": 12
+        },
+        {
+            "source": 12,
+            "target": 8
+        }
+    ]
+}
